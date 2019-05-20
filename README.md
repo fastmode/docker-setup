@@ -12,10 +12,12 @@ docker build -t <username>/<image-name> .
 
 ```
 docker run -p 80:80 <username>/<image-name>
+```
 
 ### To tag image  (must be done prior to uploading to DockerHub)
 
 Run `docker image` to find the Image ID of your image.
+
 ```
 docker tag <Image ID> <username>/<image-name>:<version>
 ```
@@ -24,7 +26,7 @@ docker tag <Image ID> <username>/<image-name>:<version>
 
 ```
 docker push <username>/<image-name>
-
+```
 
 
 
