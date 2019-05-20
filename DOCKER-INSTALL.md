@@ -1,4 +1,4 @@
-# Deploy EAACI Horizontal Interactive Panel
+# Deploy React App to Windows 10 Pro
 ## Requirements
 1. Windows 10 Pro computer
 2. Set Display settings to 1920 x 1080
